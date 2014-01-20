@@ -1,0 +1,26 @@
+{
+  "name": "stylib",
+  "version": "1.0.1",
+  "family": "alistyle",
+  "keywords": [
+    "stylib"
+  ],
+  "description": "阿里巴巴样式库",
+  "homepage": "http://aliceui.org/stylib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alistyle/stylib"
+  },
+  "bugs": {
+    "url": "https://github.com/alistyle/stylib/issues"
+  },
+  "spm": {
+      "alias": {
+          "base":    "alistyle/base/1.0.1/base.css",
+          "button":  "alistyle/button/1.0.1/button.css",
+          "tiptext": "alistyle/tiptext/1.0.1/tiptext.css",
+          "form":    "alistyle/form/1.0.1/form.css"
+      },
+      "output": ["stylib.css"]
+  }
+}
