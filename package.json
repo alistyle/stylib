@@ -19,7 +19,9 @@
           "base":    "alistyle/base/1.0.1/base.css",
           "button":  "alistyle/button/1.0.1/button.css",
           "tiptext": "alistyle/tiptext/1.0.1/tiptext.css",
-          "form":    "alistyle/form/1.0.1/form.css"
+          "form":    "alistyle/form/1.0.1/form.css",
+          "step":    "alistyle/step/1.0.1/step.css",
+          "modal":   "alistyle/modal/1.0.1/modal.css"
       },
       "output": ["stylib.css"]
   }
